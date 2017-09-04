@@ -38,6 +38,6 @@ Seu projeto será avaliado por nós de acordo com a qualidade do código enviado
 1. Faça um "fork" deste projeto para sua conta no Github;
 2. Implemente o projeto em seu próprio fork;
 3. Conclua e suba os arquivos para o seu repositório no Github;
-4. Envie um e-mail para adriano@umbler.com e nos informe a url do seu fork.
+4. Envie um e-mail para marcos@umbler.com e nos informe a url do seu fork.
 
 _Um até logo e boa sorte!_
